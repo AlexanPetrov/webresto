@@ -1,0 +1,20 @@
+Restaurant Menu API
+
+For this test, we would like you to make an API to provide data to a restaurant menu application. 
+This API should use nodeJS and GraphQL. 
+It should include a README with instructions to run this API locally. 
+We would love to see automated tests. 
+Overall, we're trying to see your skill in node development. 
+The rules beyond this are relatively simple. 
+You can use as much or as little of the technology above as you'd like, but please use node. 
+We are trying to gauge how you think about a problem and the cleanliness of your code. 
+You may spend as much or as little time as you'd like on the project, however we do not ask for any more than an hour or 2. 
+You may use any resources you'd like (google, stackoverflow, books, articles) but please make the code your own.
+
+When you are done, please upload the resulting node application to a public GitHub repo. 
+Please include a README with instructions to run your application locally. 
+Feel free to add any notes on special procedures to run the code, and any notes about what you did and why.
+
+My assumptions:
+1. This is a barebones application API 
+2. There is no need for a locally run GraphQL since I am using GraphQL Playground
